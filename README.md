@@ -52,7 +52,6 @@ The final stage is the creation of the web front end and visualisations. A pytho
 ## Demo screenshots
 
 * Get started html page sends input to flask which intern sends to kafka producer scripts to start streaming.
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/98585812/166879100-7af86c08-9389-4036-89a0-1fd4420ea80a.png">
 
 * Trending.html receive top 10 hashtags from spark, which gets updated automatically as the new tweets coming into spark from kafka.
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/98585812/166879182-85f1d217-4386-497a-9446-2b2821029fab.png">
