@@ -23,7 +23,7 @@ The development of an end to end soultion comprised of:
 * Scalable processing of the live tweets collected and sentiment analysis of each tweet that comes in, using Apache Spark Pyspark data processing and textblob python libraries.
 * A web front end to display the results of the sentiments, running total of top ten Hashtags, map of a specific location showing sentiment of tweets,       using Flask and JavaScript libraries.
 
-## Technologies and Resources 
+## Technologies and Resources 🖥
 
 Twitter API, Kafka, Spark, Flask, HTML
 
