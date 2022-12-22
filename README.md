@@ -24,8 +24,7 @@ The development of an end to end soultion comprised of:
 * A web front end to display the results of the sentiments, running total of top ten Hashtags, map of a specific location showing sentiment of tweets,       using Flask and JavaScript libraries.
 
 ## Technologies and Resources 🖥
-
-Twitter API, Kafka, Spark, Flask, HTML
+[![](https://img.shields.io/badge/Twitter API-FFD43B?style=for-the-badge&logoColor=darkgreen)](https://www.python.org) , Kafka, Spark, Flask, HTML
 
 ## Python Libraries
 
