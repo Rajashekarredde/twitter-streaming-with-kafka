@@ -1,4 +1,6 @@
 # Real-time Twitter Streaming and Sentiment Analysis
+<img alt="image" src="https://cdn.vox-cdn.com/thumbor/BJvHEuVBOfwf98qRI8jFsrDoyC8=/0x0:1000x667/1000x667/filters:focal(500x334:501x335):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10262551/mdoying_180117_2249_twitter_rocking.gif">
+
 
 ## Problem Statement
 
